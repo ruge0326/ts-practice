@@ -26,3 +26,5 @@ function romanToInt(s: string): number {
 
 console.log(romanToInt("LVIII")); // 58
 console.log(romanToInt("MCMXCIV")); // "1994"
+
+export {};
